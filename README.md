@@ -1,1 +1,1 @@
-# broadcast-receiver
+If we want a periodic background task, the Alarm Manager provides an easy way to trigger your service at specified intervals. To setup your app to be called periodically, you need to add in this code.
